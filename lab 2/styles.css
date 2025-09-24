@@ -1,0 +1,28 @@
+h1 {
+  background-color: lightblue;
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.gallery_card_container {
+  border: 1px solid grey;
+  padding: 15px;
+  width: 300px;
+  background-color: #f9f9f9;
+  font-family: sans-serif;
+  text-align: justify;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.gallery_card_container img {
+  border: 1px solid gray;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
